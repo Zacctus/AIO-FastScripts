@@ -18,3 +18,7 @@ To-Do
 - [ ] Device information display
     - [ ] Temperature, Fans
     - [ ] CPU Clock, RAM usage
+
+
+## Credits
+https://www.asciiart.eu/computers/linux  -  Ascii art inside logo.txt
