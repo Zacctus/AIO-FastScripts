@@ -14,7 +14,7 @@ To-Do
     - [ ] clean & autoremove
     - [ ] Toolset installers 
 - [ ] Secure deletion
-    - [ ] srm 
+    - srm 
 - [ ] Device information display
     - [ ] Temperature, Fans
     - [ ] CPU Clock, RAM usage
