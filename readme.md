@@ -8,4 +8,13 @@ Features
 
 To-Do
 - [ ] Network information grabber
-    - curl ifconfig.co/json | sorted
+    - curl ifconfig.co/json | sorted output
+- [ ] apt quick scripts
+    - [ ] update & upgrade
+    - [ ] clean & autoremove
+    - [ ] Toolset installers 
+- [ ] Secure deletion
+    - [ ] srm 
+- [ ] Device information display
+    - [ ] Temperature, Fans
+    - [ ] CPU Clock, RAM usage
